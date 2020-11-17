@@ -1,0 +1,15 @@
+{
+  "name": "nonas_kitchen",
+  "version": "1.0.0",
+  "description": "Capstone project unit 1",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Canessa",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "http-status-codes": "^2.1.4"
+  }
+}
